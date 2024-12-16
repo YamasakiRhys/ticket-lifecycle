@@ -41,7 +41,7 @@ Go to http://localhost/osTicket and open a new ticket. Let's create a ticket abo
 <img src="https://github.com/user-attachments/assets/eed67ceb-8e24-4e0a-bd92-a33c2b2c65f5" height="80%" width="80%" alt="ticket 1 created"/>
 </p>
 <p>
- We will try and access this ticket with the John Doe user we created in the Post-Installation project https://github.com/jttn90/post-install-config. Looks like we can assign this ticket to others can set the SLA.
+ We will try and access this ticket with the John Doe user we created in the Post-Installation project. Looks like we can assign this ticket to others can set the SLA.
 Online banking being down for a company needs to be looked at urgently so we can set the SLA to Sev-A. Although John could probably resolve this ticket since he's part of the support team, it is more appropriate
 to assign this to the Online Banking team. Then Jane from the Online Banking team and work the ticket to resolution and close the ticket.
 </p>
